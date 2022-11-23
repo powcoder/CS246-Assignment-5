@@ -1,0 +1,15 @@
+A flight with that name already exists!
+Flight plan 1:
+	Duration:	2 hours
+	   Price:	$200
+	    Pain:	288
+	 Details:
+		SEA->YVR
+			Flight DA123, 2 hours, $200
+Flight plan 2:
+	Duration:	1 hours
+	   Price:	$264
+	    Pain:	316
+	 Details:
+		SEA->YVR
+			Flight DA807, 1 hours, $264

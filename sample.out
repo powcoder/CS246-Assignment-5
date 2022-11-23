@@ -1,0 +1,232 @@
+Flight plan 1:
+	Duration:	13 hours
+	   Price:	$1370
+	    Pain:	14658
+	 Details:
+		YVR->YYC
+			Flight DA582, 2 hours, $296
+		YYC->CDG
+			Flight DA446, 10 hours, $1074
+Flight plan 2:
+	Duration:	15 hours
+	   Price:	$1903
+	    Pain:	29319
+	 Details:
+		YVR->SEA
+			Flight DA807, 1 hours, $264
+		SEA->LHR
+			Flight MA595, 10 hours, $1432
+		LHR->CDG
+			Flight EUA818, 2 hours, $207
+Flight plan 3:
+	Duration:	19 hours
+	   Price:	$1998
+	    Pain:	63832
+	 Details:
+		YVR->YYC
+			Flight DA582, 2 hours, $296
+		YYC->YYZ
+			Flight DA712, 4 hours, $460
+		YYZ->LHR
+			Flight DA748, 8 hours, $1035
+		LHR->CDG
+			Flight EUA818, 2 hours, $207
+Flight plan 4:
+	Duration:	19 hours
+	   Price:	$2234
+	    Pain:	71371
+	 Details:
+		YVR->SEA
+			Flight DA807, 1 hours, $264
+		SEA->MSP
+			Flight MA962, 4 hours, $210
+		MSP->JFK
+			Flight MA637, 3 hours, $300
+		JFK->CDG
+			Flight MA466, 8 hours, $1460
+Flight plan 5:
+	Duration:	20 hours
+	   Price:	$1907
+	    Pain:	73109
+	 Details:
+		YVR->SEA
+			Flight DA807, 1 hours, $264
+		SEA->YYZ
+			Flight DA968, 6 hours, $401
+		YYZ->LHR
+			Flight DA748, 8 hours, $1035
+		LHR->CDG
+			Flight EUA818, 2 hours, $207
+Flight plan 6:
+	Duration:	19 hours
+	   Price:	$2659
+	    Pain:	84949
+	 Details:
+		YVR->YYC
+			Flight DA582, 2 hours, $296
+		YYC->YYZ
+			Flight DA712, 4 hours, $460
+		YYZ->JFK
+			Flight DA792, 2 hours, $443
+		JFK->CDG
+			Flight MA466, 8 hours, $1460
+Flight plan 7:
+	Duration:	20 hours
+	   Price:	$2568
+	    Pain:	98450
+	 Details:
+		YVR->SEA
+			Flight DA807, 1 hours, $264
+		SEA->YYZ
+			Flight DA968, 6 hours, $401
+		YYZ->JFK
+			Flight DA792, 2 hours, $443
+		JFK->CDG
+			Flight MA466, 8 hours, $1460
+Flight plan 8:
+	Duration:	24 hours
+	   Price:	$2199
+	    Pain:	174813
+	 Details:
+		YVR->SEA
+			Flight DA807, 1 hours, $264
+		SEA->YYZ
+			Flight DA968, 6 hours, $401
+		YYZ->YYC
+			Flight DA712, 4 hours, $460
+		YYC->CDG
+			Flight DA446, 10 hours, $1074
+Flight plan 9:
+	Duration:	25 hours
+	   Price:	$2459
+	    Pain:	234579
+	 Details:
+		YVR->SEA
+			Flight DA807, 1 hours, $264
+		SEA->MSP
+			Flight MA962, 4 hours, $210
+		MSP->JFK
+			Flight MA637, 3 hours, $300
+		JFK->YYZ
+			Flight DA792, 2 hours, $443
+		YYZ->LHR
+			Flight DA748, 8 hours, $1035
+		LHR->CDG
+			Flight EUA818, 2 hours, $207
+Flight plan 10:
+	Duration:	28 hours
+	   Price:	$2796
+	    Pain:	460905
+	 Details:
+		YVR->YYC
+			Flight DA582, 2 hours, $296
+		YYC->YYZ
+			Flight DA712, 4 hours, $460
+		YYZ->SEA
+			Flight DA968, 6 hours, $401
+		SEA->LHR
+			Flight MA595, 10 hours, $1432
+		LHR->CDG
+			Flight EUA818, 2 hours, $207
+Flight plan 11:
+	Duration:	29 hours
+	   Price:	$2751
+	    Pain:	544185
+	 Details:
+		YVR->SEA
+			Flight DA807, 1 hours, $264
+		SEA->MSP
+			Flight MA962, 4 hours, $210
+		MSP->JFK
+			Flight MA637, 3 hours, $300
+		JFK->YYZ
+			Flight DA792, 2 hours, $443
+		YYZ->YYC
+			Flight DA712, 4 hours, $460
+		YYC->CDG
+			Flight DA446, 10 hours, $1074
+Flight plan 12:
+	Duration:	32 hours
+	   Price:	$3127
+	    Pain:	1068877
+	 Details:
+		YVR->YYC
+			Flight DA582, 2 hours, $296
+		YYC->YYZ
+			Flight DA712, 4 hours, $460
+		YYZ->SEA
+			Flight DA968, 6 hours, $401
+		SEA->MSP
+			Flight MA962, 4 hours, $210
+		MSP->JFK
+			Flight MA637, 3 hours, $300
+		JFK->CDG
+			Flight MA466, 8 hours, $1460
+Flight plan 13:
+	Duration:	33 hours
+	   Price:	$3348
+	    Pain:	1373303
+	 Details:
+		YVR->YYC
+			Flight DA582, 2 hours, $296
+		YYC->YYZ
+			Flight DA712, 4 hours, $460
+		YYZ->JFK
+			Flight DA792, 2 hours, $443
+		JFK->MSP
+			Flight MA637, 3 hours, $300
+		MSP->SEA
+			Flight MA962, 4 hours, $210
+		SEA->LHR
+			Flight MA595, 10 hours, $1432
+		LHR->CDG
+			Flight EUA818, 2 hours, $207
+Flight plan 14:
+	Duration:	33 hours
+	   Price:	$4634
+	    Pain:	1900803
+	 Details:
+		YVR->SEA
+			Flight DA807, 1 hours, $264
+		SEA->LHR
+			Flight MA595, 10 hours, $1432
+		LHR->YYZ
+			Flight DA748, 8 hours, $1035
+		YYZ->JFK
+			Flight DA792, 2 hours, $443
+		JFK->CDG
+			Flight MA466, 8 hours, $1460
+Flight plan 15:
+	Duration:	37 hours
+	   Price:	$4265
+	    Pain:	3627647
+	 Details:
+		YVR->SEA
+			Flight DA807, 1 hours, $264
+		SEA->LHR
+			Flight MA595, 10 hours, $1432
+		LHR->YYZ
+			Flight DA748, 8 hours, $1035
+		YYZ->YYC
+			Flight DA712, 4 hours, $460
+		YYC->CDG
+			Flight DA446, 10 hours, $1074
+Flight plan 16:
+	Duration:	45 hours
+	   Price:	$5193
+	    Pain:	18992161
+	 Details:
+		YVR->YYC
+			Flight DA582, 2 hours, $296
+		YYC->YYZ
+			Flight DA712, 4 hours, $460
+		YYZ->LHR
+			Flight DA748, 8 hours, $1035
+		LHR->SEA
+			Flight MA595, 10 hours, $1432
+		SEA->MSP
+			Flight MA962, 4 hours, $210
+		MSP->JFK
+			Flight MA637, 3 hours, $300
+		JFK->CDG
+			Flight MA466, 8 hours, $1460
